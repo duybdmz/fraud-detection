@@ -1,0 +1,13 @@
+# IDE & tool configs
+.claude/
+.vscode/
+
+# Dataset (large files)
+archive/
+
+# Generated diagrams
+diagrams_output/
+
+# macOS
+.DS_Store
+docs/
