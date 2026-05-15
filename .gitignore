@@ -1,3 +1,11 @@
+# Environment variables (secrets)
+.env
+*.tfvars
+*.tfvars.json
+**/.terraform/
+*.tfstate
+*.tfstate.backup
+
 # IDE & tool configs
 .claude/
 .vscode/
@@ -11,3 +19,22 @@ diagrams_output/
 # macOS
 .DS_Store
 docs/
+
+#
+/Users/megazone/Documents/fraud-detection/note
+
+# Terraform local files
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+.terraform.tfstate.lock.info
+crash.log
+crash.*.log
+
+# Keep provider lock file committed
+.terraform.lock.hcl
+
+#
+.note

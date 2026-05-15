@@ -1,0 +1,10 @@
+2light tính năng db
+quản trị
+nhiều nền tảng (data source , cloud , on prem , 2 cloud cũng được)
+compute :tối ưu spark tuỳ theo spark
+brone -> silver -> gold : format chung của DE
+cần xác định data platform 
+xác đinhj được datalake hay datawarehouse hay lakehouse
+data govoment , security ,ingest từ nhiều nguônf nằm rải rác
+hiểu data
+
